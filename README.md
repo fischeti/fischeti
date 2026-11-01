@@ -19,8 +19,4 @@ I like building **developer tools for hardware engineers**: the kind of tooling 
 - [**Bender**](https://github.com/pulp-platform/bender): a dependency manager for hardware projects, written in Rust.
 - [**iis-typst**](https://github.com/pulp-platform/iis-typst): all of IIS's LaTeX templates (thesis, slides, reports, …), rebuilt in Typst.
 
-### 📫 Reach me
-
-[X / Twitter](https://x.com/fischetim)
-
 <sub>Rust · SystemVerilog · Python · Typst</sub>
